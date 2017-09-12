@@ -1,4 +1,6 @@
 # onlineShop
+
+
 An E-commerce Web App written in Django with: 
 - Product Catalouge, with ability to filter by category.
 - Shopping Cart System.
@@ -9,4 +11,5 @@ An E-commerce Web App written in Django with:
 - Dynamical generating pdf payment reports.
 - Exporting order data into csv.
 - Backend Admin Optimizations.
-| More Features to be added soon..
+
+`This is WorkInProgress with more features to be added soon..`
