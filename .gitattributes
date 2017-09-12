@@ -1,4 +1,4 @@
-static/admin/js/*.js linguist-language=python
-static/css/*.css linguist-language=python
+*/**/*.js linguist-language=python
 */**/*.css linguist-language=python
-staticfiles/css/*.css linguist-language=python
+*/**/*.html linguist-language=python
+
