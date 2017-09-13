@@ -12,9 +12,9 @@ An E-commerce Web App written in Django with:
 - Exporting order data into csv.
 - Backend Admin Optimizations.
 
-~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
-`This is WIP with more features to be added soon..`
+__This is WIP with more features to be added soon..__
 
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 you can still run it locally:
 assuming python3 is installed.
 
