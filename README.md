@@ -12,4 +12,14 @@ An E-commerce Web App written in Django with:
 - Exporting order data into csv.
 - Backend Admin Optimizations.
 
-`This is WorkInProgress with more features to be added soon..`
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+`This is WIP with more features to be added soon..`
+
+you can still run it locally:
+assuming python3 is installed.
+
+- clone the repo. & cd into cloned directory.
+- pip install -r requirements.txt
+- python manage.py runserver 
+- access the app on: localhost:8000
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
